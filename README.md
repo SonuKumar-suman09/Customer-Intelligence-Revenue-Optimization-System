@@ -77,6 +77,6 @@ Evaluation metrics were selected based on industry-standard practices**.
 pip install -r requirements.txt
 python CUSTOMER_INTELLIGENC.py
 
-Author
+#Author
 Sonu Kumar Suman
 Data Science & Analytics
